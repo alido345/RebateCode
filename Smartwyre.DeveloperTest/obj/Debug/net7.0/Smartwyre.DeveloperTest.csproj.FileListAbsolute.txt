@@ -1,0 +1,11 @@
+D:\Projects\Tests\Coding Ass\WM\developer-interview-test\Smartwyre.DeveloperTest\bin\Debug\net7.0\Smartwyre.DeveloperTest.deps.json
+D:\Projects\Tests\Coding Ass\WM\developer-interview-test\Smartwyre.DeveloperTest\bin\Debug\net7.0\Smartwyre.DeveloperTest.dll
+D:\Projects\Tests\Coding Ass\WM\developer-interview-test\Smartwyre.DeveloperTest\bin\Debug\net7.0\Smartwyre.DeveloperTest.pdb
+D:\Projects\Tests\Coding Ass\WM\developer-interview-test\Smartwyre.DeveloperTest\obj\Debug\net7.0\Smartwyre.DeveloperTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Tests\Coding Ass\WM\developer-interview-test\Smartwyre.DeveloperTest\obj\Debug\net7.0\Smartwyre.DeveloperTest.AssemblyInfoInputs.cache
+D:\Projects\Tests\Coding Ass\WM\developer-interview-test\Smartwyre.DeveloperTest\obj\Debug\net7.0\Smartwyre.DeveloperTest.AssemblyInfo.cs
+D:\Projects\Tests\Coding Ass\WM\developer-interview-test\Smartwyre.DeveloperTest\obj\Debug\net7.0\Smartwyre.DeveloperTest.csproj.CoreCompileInputs.cache
+D:\Projects\Tests\Coding Ass\WM\developer-interview-test\Smartwyre.DeveloperTest\obj\Debug\net7.0\Smartwyre.DeveloperTest.dll
+D:\Projects\Tests\Coding Ass\WM\developer-interview-test\Smartwyre.DeveloperTest\obj\Debug\net7.0\refint\Smartwyre.DeveloperTest.dll
+D:\Projects\Tests\Coding Ass\WM\developer-interview-test\Smartwyre.DeveloperTest\obj\Debug\net7.0\Smartwyre.DeveloperTest.pdb
+D:\Projects\Tests\Coding Ass\WM\developer-interview-test\Smartwyre.DeveloperTest\obj\Debug\net7.0\ref\Smartwyre.DeveloperTest.dll
